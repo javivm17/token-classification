@@ -1,0 +1,5 @@
+git+https://github.com/ozgur/python-firebase
+datasets
+seqeval
+numpy==1.22.3
+python-dotenv
