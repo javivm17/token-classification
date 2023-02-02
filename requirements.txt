@@ -3,3 +3,5 @@ datasets
 seqeval
 numpy==1.22.3
 python-dotenv
+transformers
+numpy==1.22.3
